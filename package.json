@@ -1,0 +1,8 @@
+{
+  "name": "jsx-watcher",
+  "version": "1.0.0",
+  "description": "A node.js based watcher for Adobe Illustrator scripting",
+  "main": "app.js",
+  "author": "RJ Duran",
+  "license": "ISC"
+}
